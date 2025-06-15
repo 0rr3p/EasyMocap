@@ -9,7 +9,7 @@
 <div align="center">
     <img src="logo.png" width="40%">
 </div>
-The aim of ReallyEasyMocap, a streamlined fork of EasyMocap, is to simplify the setup and implementation of a multi-camera computer vision system for analyzing activities in an industrial setting during component interventions. In the NOTEBOOKS section, you will find instructions and demos covering each stage.
+The aim of ReallyEasyMocap, a streamlined fork of EasyMocap, is to simplify the setup and implementation of a multi-camera computer vision system for analyzing activities in an industrial setting during component interventions. In the NOTEBOOKS section, you will find instructions and demos covering each stage. In MATERIAL, you can find videos-images-files related to the project.
 
 License & Attribution:
 This repository is a fork of EasyMocap. All original copyright, license, and attribution remain with the original EasyMocap authors and contributors.
